@@ -1,0 +1,10 @@
+C:\Users\Daviidco\source\repos\C#\OcelotApiGateWay\ApiGateWay\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Daviidco\source\repos\C#\OcelotApiGateWay\ApiGateWay\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Daviidco\source\repos\C#\OcelotApiGateWay\ApiGateWay\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Daviidco\source\repos\C#\OcelotApiGateWay\ApiGateWay\bin\Debug\netcoreapp3.1\ApiGateWay.exe
+C:\Users\Daviidco\source\repos\C#\OcelotApiGateWay\ApiGateWay\obj\Debug\netcoreapp3.1\ApiGateWay.csprojAssemblyReference.cache
+C:\Users\Daviidco\source\repos\C#\OcelotApiGateWay\ApiGateWay\obj\Debug\netcoreapp3.1\ApiGateWay.AssemblyInfoInputs.cache
+C:\Users\Daviidco\source\repos\C#\OcelotApiGateWay\ApiGateWay\obj\Debug\netcoreapp3.1\ApiGateWay.AssemblyInfo.cs
+C:\Users\Daviidco\source\repos\C#\OcelotApiGateWay\ApiGateWay\obj\Debug\netcoreapp3.1\ApiGateWay.RazorTargetAssemblyInfo.cache
+C:\Users\Daviidco\source\repos\C#\OcelotApiGateWay\ApiGateWay\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateWay.StaticWebAssets.Manifest.cache
+C:\Users\Daviidco\source\repos\C#\OcelotApiGateWay\ApiGateWay\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateWay.StaticWebAssets.xml
